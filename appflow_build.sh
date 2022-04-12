@@ -1,4 +1,5 @@
 #!/bin/bash
+export $CI_APP_ID
 
 if [[$CI_APP_ID == "b57b6ac4" ]]
 then
