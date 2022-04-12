@@ -6,7 +6,6 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "postinstall": "./appflow_build.sh",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
